@@ -1,2 +1,2 @@
-# Endpoint-
-endpoint which has multiple options like direct file download or handover the file data to frontend to do operation.
+# Write-an-endpoint-which-has-multiple-options-like-direct-file-download-or-handover-the-file-data-to-
+Back-end developer (Paste the Github link in answer):  A. Write an endpoint which has multiple options like direct file download or handover the file data to frontend to do operation.  B. Write an end point to upload multiport data to the backend part and store files inside the uploads folder of the projects.
